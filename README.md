@@ -14,7 +14,7 @@ The picture is built to the judge's first rule: one look should make you hungry,
 python3 main.py
 ```
 
-This writes the picture to `/output/entry.png` (1024x1024 JPEG, 176,142 bytes).
+This writes the picture to `/output/entry.png` (1024x1024 JPEG, 176,168 bytes).
 
 ---
 
